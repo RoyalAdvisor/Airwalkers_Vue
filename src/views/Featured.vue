@@ -121,7 +121,7 @@ section {
 .overlay {
   width: 100%;
   height: 70vh;
-  background-color: rgba(0, 0, 0, 90%);
+  background-color: rgba(0, 0, 0, 60%);
 }
 @media screen and (max-width: 768px) {
   .carousel-caption {

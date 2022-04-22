@@ -59,6 +59,6 @@ main {
   justify-content: center;
   align-items: center;
   width: 100%;
-  background: rgba(0, 0, 0, 90%);
+  background: rgba(0, 0, 0, 60%);
 }
 </style>
