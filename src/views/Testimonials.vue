@@ -248,12 +248,12 @@ export default {
 
 <style scoped>
 section {
-  margin-top: 2.5rem;
+  margin-top: 5rem;
   display: flex;
   justify-content: flex-start;
   align-items: center;
   width: 100%;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   flex-direction: column;
   gap: 2rem;
 }
