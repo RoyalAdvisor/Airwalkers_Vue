@@ -61,7 +61,7 @@ export default {
   color: #fff;
 }
 .form-control {
-  border: 3px solid rgba(0, 0, 0, 20%);
+  border: 3px solid rgba(0, 0, 0, 10%);
 }
 .form-control::placeholder {
   font-weight: 600;

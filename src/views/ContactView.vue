@@ -12,6 +12,7 @@
     <div class="overlay">
       <main>
         <Form />
+        <Footer />
       </main>
     </div>
   </section>
@@ -19,10 +20,12 @@
 
 <script>
 import Form from "@/components/Form.vue";
+import Footer from "@/components/Footer.vue";
 export default {
   name: "ContactView",
   components: {
     Form,
+    Footer,
   },
 };
 </script>
@@ -58,6 +61,7 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   width: 100%;
   background: rgba(0, 0, 0, 60%);
 }

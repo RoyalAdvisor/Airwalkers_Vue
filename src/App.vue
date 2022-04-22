@@ -6,7 +6,6 @@
   <Testimonials />
   <Brands />
   <ContactView />
-  <Footer />
 </template>
 <script>
 import Navbar from "@/components/Navbar.vue";
@@ -16,7 +15,6 @@ import Services from "@/views/Services.vue";
 import Testimonials from "@/views/Testimonials.vue";
 import Brands from "@/views/Brands.vue";
 import ContactView from "@/views/ContactView.vue";
-import Footer from "@/components/Footer.vue";
 export default {
   components: {
     Navbar,
@@ -26,7 +24,6 @@ export default {
     Testimonials,
     Brands,
     ContactView,
-    Footer,
   },
 };
 </script>

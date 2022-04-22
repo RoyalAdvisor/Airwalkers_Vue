@@ -17,7 +17,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #000;
+  background-color: transparent;
   margin: 0;
   padding: 0;
 }
